@@ -8,4 +8,4 @@ Big thank you to:
 --River 🌎 
 -- Joe Barnard 🌏 
 --Nedos
-<img src="dono.png" alt="donation">
+<img src="dono.PNG" alt="donation">
