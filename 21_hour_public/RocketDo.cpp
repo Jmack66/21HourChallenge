@@ -47,7 +47,7 @@ void Rocket::apogee() {
   
 }
 void Rocket::descent() {
-
+  //open chute
 
 }
 

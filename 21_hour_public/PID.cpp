@@ -3,7 +3,7 @@
 
 PID::PID(float Kp, float Ki, float Kd, float saturation) {
   //constructor-- will take in gains, and maybe like servo limits or can do a specific function
-  this->Kp = Kp;
+  this->Kp = Kp;//the this-> isnt vital but it makes it nice and clear we are modifying the class variable
   this->Kd = Kd;
   this->Ki = Ki;
   this->saturation = saturation;
